@@ -1,4 +1,5 @@
 [![Snapshot build](https://github.com/HeroBrine1st/E621/actions/workflows/snapshot-build.yml/badge.svg)](https://github.com/HeroBrine1st/E621/actions/workflows/snapshot-build.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSweetCapitan%2FE621.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSweetCapitan%2FE621?ref=badge_shield)
 
 # E621
 
@@ -82,6 +83,9 @@ libraries are released under different licenses, mostly Apache 2.0 and some unde
 MIT License.
 
 If you found any violation of your copyright, contact HeroBrine1st Erquilenne. See details below.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSweetCapitan%2FE621.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSweetCapitan%2FE621?ref=badge_large)
 
 # Contact
 
